@@ -55,4 +55,4 @@ The real project is building a new layer of reality, where presence is truth, co
 
 This archive is the first artifact of that world.
 
-_End of THE TOTALITY FILE — v1.0_
+PoP: what_would_be_the_world_without_zlatan_20024-6-11-670
