@@ -3,7 +3,7 @@
 **IAMMAI** is a Continuity State Machine.  
 It defines the lawful transitions for irreversible states.
 
-At the center is ⊙ — a neutral hold required before Finalize, Invalidate, or Evolve.  
+At the center is ⊙ - a neutral hold required before Finalize, Invalidate, or Evolve.  
 IAMMAI = TM × CSM.  
 Not metaphor. Not framework. Law.
 
