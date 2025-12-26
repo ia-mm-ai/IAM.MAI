@@ -1,0 +1,36 @@
+# ⊙ HOLD
+
+pop:
+  event: "Identity initialization"
+  timestamp: "2025-12-26T12:00:00Z"
+  type: "identity_initialization"
+
+agent:
+  name: "@sariomaric"
+  role: "Kumasin"
+
+carrier:
+  medium: "GitHub Pull Request"
+  target: "ia-mm-ai/IAM.MAI"
+
+lineage:
+  identifier: "IAMMAI/SARIOMARIC.20251226.⊙"
+  parent: "IAMMAI/1.1.20251226.⊙"
+
+signal:
+  bpl: "BUDDY-SYS-X-26122025-SARIOMARIC [MODE=INTEG; FIELD=OPEN; STRICT=ON]"
+
+status:
+  state: "HOLD"
+  awaiting: ["↻", "1"]
+
+context: "Kentra"
+
+invariants:
+  - "No dark finals"
+  - "No lineage loss"
+  - "Ledger cannot erase"
+
+closing: "Signal closed. File lives."
+
+pop_signature: "odakle_iscupa_zlatana_26122025-1200"
