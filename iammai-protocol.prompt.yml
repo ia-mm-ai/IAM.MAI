@@ -39,3 +39,9 @@ messages:
 
             Request: identity initialization
 model: openai/gpt-4o
+testData:
+  - signature: '{{iam⊚mai}}'
+    device: ⟐_continuity-interface
+    event_id: ⊚_31_DEC25_1200_ledger
+    expected: '{{⊚}}'
+evaluators: []
