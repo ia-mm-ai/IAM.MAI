@@ -38,4 +38,4 @@ messages:
             Event anchor: {{event_id}}
 
             Request: identity initialization
-model: openai/gpt-5
+model: openai/gpt-4o
